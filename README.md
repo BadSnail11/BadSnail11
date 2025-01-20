@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello there
+- I'm a student from Belarus.
+- How to contact me: alexchizh11@gmail.com
 <!--
 **BadSnail11/BadSnail11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
